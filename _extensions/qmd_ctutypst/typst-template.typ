@@ -203,7 +203,7 @@
             #text(
               size: 9pt, fill: gray.darken(50%)
             )[
-            #counter(page).display() of #locate((loc) => {counter(page).final(loc).first()})
+            #context counter(page).display( "1 of 1", both: true)
             ]
           ]
 
