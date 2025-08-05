@@ -16,6 +16,10 @@ heading: true
 heading-numbering: "1.1.1"
 bibliography: references.bib
 keep-md: true
+execute: 
+  echo: true
+  warning: true
+  message: true
 ---
 
 # Section 1
@@ -203,7 +207,8 @@ output
 ```
 
 
-# Reproducibility
+\newpage
+# Reproducibility {.unnumbered}
 
 R packages used in the analysis:
 
