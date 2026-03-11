@@ -1,4 +1,4 @@
-# Quarto and LaTeX templates for CTU Bern
+# Quarto and LaTeX templates for DCR
 
 This repository has [Quarto](https://quarto.org/) and [LaTeX](https://latex.org) templates for use at DCR. 
 
@@ -9,7 +9,7 @@ Templates reside in their own branches.
 To install, type the following into the terminal, replacing `branch` with the relevant name, and accept to install
 
 ```
-quarto install extension CTU-Bern/quarto@branch
+quarto install extension dcr-unibe-ch/quarto@branch
 ```
 
 ### Using Quarto templates
@@ -34,10 +34,10 @@ Download the content of the branch and unzip it in the relevant folder.
 
 | Branch | Format | Details |
 | ------ | ------ | ------- |
-| [pres](https://github.com/CTU-Bern/quarto/tree/pres) | revealjs | Presentation template. Presentations run in the internet browser. |
-| [html](https://github.com/CTU-Bern/quarto/tree/html) | html | HTML report template for a basic statistical analysis report. |
-| [html-rec](https://github.com/CTU-Bern/quarto/tree/html-rec) | html | HTML recruitment report template for a basic recruitment report. |
-| [html-ss](https://github.com/CTU-Bern/quarto/tree/html-ss) | html | HTML sample size calculation report template. |
-| [latex](https://github.com/CTU-Bern/quarto/tree/latex) | PDF | LaTeX template for compiling reports via Sweave and LaTeX. !!! In prep !!! |
-| [typst](https://github.com/CTU-Bern/quarto/tree/typst) | PDF | Typst template for creating PDFs without using LaTeX !!! In prep !!! |
+| [pres](https://github.com/dcr-unibe-ch/quarto/tree/pres) | revealjs | Presentation template. Presentations run in the internet browser. |
+| [html](https://github.com/dcr-unibe-ch/quarto/tree/html) | html | HTML report template for a basic statistical analysis report. |
+| [html-rec](https://github.com/dcr-unibe-ch/quarto/tree/html-rec) | html | HTML recruitment report template for a basic recruitment report. |
+| [html-ss](https://github.com/dcr-unibe-ch/quarto/tree/html-ss) | html | HTML sample size calculation report template. |
+| [latex](https://github.com/dcr-unibe-ch/quarto/tree/latex) | PDF | LaTeX template for compiling reports via Sweave and LaTeX. !!! In prep !!! |
+| [typst](https://github.com/dcr-unibe-ch/quarto/tree/typst) | PDF | Typst template for creating PDFs without using LaTeX !!! In prep !!! |
 
