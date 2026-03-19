@@ -15,7 +15,7 @@
   toc: false,
   author: (),
   affiliations: (),
-  path_logo: "/_extensions/CTU-Bern/qmd_ctutypst/",
+  path_logo: "/_extensions/dcr-unibe-ch/qmd_ctutypst/",
   // logo_size: filename (fore example, "dcrlogo.jpg")
   logo: "DCRlogo.svg",
   // logo_size: percentage (for example, 80%) or auto
