@@ -1,4 +1,4 @@
-# qmd_ctutypst
+# qmd_ctutypst_letter
 
 A typical qmd header for this format might look like this
 
